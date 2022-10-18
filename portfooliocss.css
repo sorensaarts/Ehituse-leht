@@ -1,0 +1,43 @@
+
+body, html {
+
+  background-color: gray;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+
+}
+
+
+
+
+
+.pilt {
+
+  height: 300px;
+  width: 450px;
+
+
+}
+
+section {
+
+  font-family: 'Poppins', Arial;
+}
+
+.kirjeldus {
+
+
+text-align: center;
+
+}
+
+.teine-kirjeldus {
+
+text-align: center;
+
+}
+
+.fullscreen{
+  height: 100%;
+}
